@@ -1,16 +1,19 @@
-## Hi there 👋
+# Muhammed Shereef K
 
-<!--
-**shereef888k/shereef888k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Full Stack Developer
 
-Here are some ideas to get you started:
+- BCA Final Year (AI, ML, IoT)
+- AI Full Stack Intern at QTest
+- Building Chatbots, AI Apps, Web Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python, Flask, AI, RAG, HTML, CSS, JavaScript
+
+## Projects
+- AI Chatbot
+- Hospital AI
+- Blood Donation System
+
+## Links
+Portfolio: https://shereef888k.github.io  
+LinkedIn: https://www.linkedin.com/in/muhammed-shereef-k-0b3094292
